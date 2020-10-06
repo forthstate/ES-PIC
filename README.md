@@ -1,2 +1,2 @@
-# ES-PIC_1D
-An ElectroStatic Particle-in-Cell(PIC) simulation program
+# ES-PIC
+A collection of simple ElectroStatic Particle-in-Cell simulations.
