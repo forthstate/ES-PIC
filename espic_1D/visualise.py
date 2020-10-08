@@ -74,6 +74,8 @@ axs[1].set_xlim(0,t_max) #x-axis
   #Plot
 axs[1].plot(1e9*data['Time'].values[:t_max],data['KE'].values[:t_max],label='Kinetic Energy')
 axs[1].plot(1e9*data['Time'].values[:t_max],data['PE'].values[:t_max],label='Potential Energy')
+E_tot = data['KE'].values + data['PE'].values
+axs[1].plot(1e9*data['Time'].values[:t_max],E_tot[:t_max],label='Total Energy')
 
 axs[1].legend()
 axs[1].grid()
