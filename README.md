@@ -1,2 +1,2 @@
 # ES-PIC
-A collection of simple ElectroStatic Particle-in-Cell simulations.
+Some of my simple ElectroStatic Particle-in-Cell simulation projects.
