@@ -1,2 +1,2 @@
 # ES-PIC
-Some of my simple ElectroStatic Particle-in-Cell simulation projects.
+Some simple ElectroStatic Particle-in-Cell simulation projects, a computational approach to learn PlasmaPhysics.
